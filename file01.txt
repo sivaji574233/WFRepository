@@ -1,2 +1,6 @@
 first file first change
+
 changes from local repo
+
+comitted by other developer
+
